@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+edited site is [here](https://bdynamite.github.io/21_valid_markup/)
 
 # Project Goals
 
